@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464719447202",
+    "firebase_url": "https://days-count-c4011.firebaseio.com",
+    "project_id": "days-count-c4011",
+    "storage_bucket": "days-count-c4011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464719447202:android:d4b9568020df7cbdb183fb",
+        "android_client_info": {
+          "package_name": "com.example.days_count"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464719447202-5anluthl1qje9hm21qq845irh4c2oc05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPibygDyuwnPmdDsz37hicJSmKOfXn0S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464719447202-5anluthl1qje9hm21qq845irh4c2oc05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
