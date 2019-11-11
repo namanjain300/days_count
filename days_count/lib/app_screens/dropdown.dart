@@ -118,7 +118,7 @@ class _MonthdayState extends State<Monthday> {
                     child: Text("Submit"),
                     onPressed: () {
 
-                      int i = int.parse(newResult.daynew); 
+                      var i = int.parse(newResult.daynew); 
                       if (newResult.monthnew == "January") {
                         totaldays = i;
                       }
@@ -159,7 +159,6 @@ class _MonthdayState extends State<Monthday> {
                         print("Invalid Input");
                       }
                         print(totaldays);
-                        AlertDialog(content: Text(totaldays));
                     }
 
                     )
